@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj",
+      "projectUniqueName": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj",
       "projectName": "DataTransferObjects",
-      "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj",
+      "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj",
       "packagesPath": "C:\\Users\\JonyHowman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\DataTransferObjects\\obj\\",
+      "outputPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\DataTransferObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JonyHowman\\AppData\\Roaming\\NuGet\\NuGet.Config",

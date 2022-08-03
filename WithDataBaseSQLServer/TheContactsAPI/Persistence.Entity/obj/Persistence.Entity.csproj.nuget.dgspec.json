@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj": {}
+    "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj": {
+    "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj",
         "projectName": "Persistence.Entity",
-        "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj",
+        "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\Persistence.Entity\\Persistence.Entity.csproj",
         "packagesPath": "C:\\Users\\JonyHowman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\Persistence.Entity\\obj\\",
+        "outputPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\Persistence.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JonyHowman\\AppData\\Roaming\\NuGet\\NuGet.Config",

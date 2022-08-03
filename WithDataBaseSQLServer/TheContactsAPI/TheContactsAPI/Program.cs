@@ -4,6 +4,7 @@ using Persistence.Context;
 using Application.Contacts.AddContact;
 using System.Reflection;
 using FluentValidation.AspNetCore;
+using Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,7 +16,9 @@ builder.Services.AddControllers()
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ContactsAPIDbContext>(options => options.UseInMemoryDatabase("ContactsDb"));
+//builder.Services.AddDbContext<ContactsAPIDbContext>(options => options.UseInMemoryDatabase("ContactsDb"));
+builder.Services.AddDbContext<ContactsAPIDbContext>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ContactsApiConnectionString")));
 builder.Services.AddMediatR(typeof(AddContactCommand));
 
 

@@ -12,3 +12,17 @@ C:\Users\JonyHowman\source\repos\TheContactsAPI\Persistence.Entity\obj\Debug\net
 C:\Users\JonyHowman\source\repos\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.pdb
 C:\Users\JonyHowman\source\repos\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.genruntimeconfig.cache
 C:\Users\JonyHowman\source\repos\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\ref\Persistence.Entity.dll
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\bin\Debug\net6.0\Persistence.Entity.deps.json
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\bin\Debug\net6.0\Persistence.Entity.runtimeconfig.json
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\bin\Debug\net6.0\Persistence.Entity.dll
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\bin\Debug\net6.0\Persistence.Entity.pdb
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.csproj.AssemblyReference.cache
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.AssemblyInfoInputs.cache
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.AssemblyInfo.cs
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.csproj.CoreCompileInputs.cache
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.dll
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\refint\Persistence.Entity.dll
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.pdb
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\Persistence.Entity.genruntimeconfig.cache
+C:\Users\JonyHowman\source\repos\Projects\WithDataBaseSQLServer\TheContactsAPI\Persistence.Entity\obj\Debug\net6.0\ref\Persistence.Entity.dll

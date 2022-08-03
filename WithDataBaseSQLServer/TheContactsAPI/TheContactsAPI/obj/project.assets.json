@@ -2363,11 +2363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\TheContactsAPI\\TheContactsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\TheContactsAPI\\TheContactsAPI.csproj",
       "projectName": "TheContactsAPI",
-      "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\TheContactsAPI\\TheContactsAPI.csproj",
+      "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\TheContactsAPI\\TheContactsAPI.csproj",
       "packagesPath": "C:\\Users\\JonyHowman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\TheContactsAPI\\obj\\",
+      "outputPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\TheContactsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JonyHowman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2384,11 +2384,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\Application\\Application.csproj"
+            "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\Application\\Application.csproj"
             },
-            "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj": {
-              "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseInMemory\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj"
+            "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj": {
+              "projectPath": "C:\\Users\\JonyHowman\\source\\repos\\Projects\\WithDataBaseSQLServer\\TheContactsAPI\\DataTransferObjects\\DataTransferObjects.csproj"
             }
           }
         }
