@@ -1,11 +1,6 @@
 ﻿using MediatR;
 using Persistence.Context;
 using Persistence.Entity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Contacts.AddContact
 {
@@ -28,8 +23,8 @@ namespace Application.Contacts.AddContact
                 Phone = request.Data.Phone,
                 Address = request.Data.Address
             };
-            _contactsAPIDbContext.Contacts.AddAsync(productToAdd);
-            _contactsAPIDbContext.SaveChangesAsync();
+            await _contactsAPIDbContext.Contacts.AddAsync(productToAdd);
+            await _contactsAPIDbContext.SaveChangesAsync();
             return productToAdd.Id;
         }
 

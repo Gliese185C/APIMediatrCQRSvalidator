@@ -22,8 +22,8 @@ namespace Application.Contacts.DeleteContact
             var productToDelete = _contactsAPIDbContext.Contacts.FirstOrDefault(c=>c.Id==request.Id);
             if (productToDelete != null)
             {
-                _contactsAPIDbContext.Contacts.Remove(productToDelete);
-                _contactsAPIDbContext.SaveChangesAsync();
+                 _contactsAPIDbContext.Contacts.Remove(productToDelete);
+                await _contactsAPIDbContext.SaveChangesAsync();
             }
             return Unit.Value;
 

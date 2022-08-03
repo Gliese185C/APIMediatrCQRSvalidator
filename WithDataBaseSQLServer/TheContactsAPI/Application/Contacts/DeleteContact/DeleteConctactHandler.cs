@@ -23,7 +23,7 @@ namespace Application.Contacts.DeleteContact
             if (productToDelete != null)
             {
                 _contactsAPIDbContext.Contacts.Remove(productToDelete);
-                _contactsAPIDbContext.SaveChangesAsync();
+                await _contactsAPIDbContext.SaveChangesAsync();
             }
             return Unit.Value;
 

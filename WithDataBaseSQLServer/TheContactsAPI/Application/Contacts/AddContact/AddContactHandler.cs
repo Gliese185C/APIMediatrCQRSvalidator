@@ -28,8 +28,8 @@ namespace Application.Contacts.AddContact
                 Phone = request.Data.Phone,
                 Address = request.Data.Address
             };
-            _contactsAPIDbContext.Contacts.AddAsync(productToAdd);
-            _contactsAPIDbContext.SaveChangesAsync();
+            await _contactsAPIDbContext.Contacts.AddAsync(productToAdd);
+            await _contactsAPIDbContext.SaveChangesAsync();
             return productToAdd.Id;
         }
 
